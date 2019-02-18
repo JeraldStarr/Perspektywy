@@ -33,7 +33,7 @@ div {
     flex-direction: column;
     justify-content: flex-end;
     width: 15.5vw;
-    height: 184px;
+    height: 10vw;
     margin-bottom: .7vw;
     border-bottom: 3px solid rgba(0, 0, 0, .7);
     transition: .4s;
@@ -59,7 +59,7 @@ a {
 }
 
 .text {
-    font-size: 20px;
+    font-size: 121%;
     font-weight: 400;
     position: relative;
     left: 0;
